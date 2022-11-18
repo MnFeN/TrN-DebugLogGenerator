@@ -1,1 +1,1 @@
-# TrN-DebugXMLGenerator
+# TrN-DebugLogGenerator
