@@ -11,7 +11,7 @@ import ctypes
 ctypes.windll.shcore.SetProcessDpiAwareness(1)                  #使用程序自身的dpi适配
 ScaleFactor=ctypes.windll.shcore.GetScaleFactorForDevice(0)     #获取屏幕的缩放因子
 
-lang = '中文'
+lang = 'English'
 
 window = tk.Tk()
 window.tk.call('tk', 'scaling', ScaleFactor/100)                #设置程序缩放
@@ -67,7 +67,7 @@ def xml_convert():
     if lang == '中文':
         note = '已复制 XML 到剪贴板，可在 Triggernometry 中粘贴导入'
     if lang == 'English':
-        note = 'XML saved to clipboard. Paste in Triggernometry to import the trigger.'
+        note = 'XML saved to clipboard.\nPaste in Triggernometry to import the trigger.'
     note_level = 0      #最终消息框的提示等级：0=info 1=warning 2=error
     OrderNumber = 0     #有效输入行计数，用于触发器
     line_count = 0      #总输入行计数
