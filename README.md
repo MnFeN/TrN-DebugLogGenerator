@@ -23,10 +23,10 @@ ACT - Triggernometry - Options - Edit Configuration - Miscellaneous:
     [19:36:55.279] StartsCasting 14:40024364:Hephaistos:79DC:Orogenic Shift:......
     [19:37:01.279] StartsCasting 14:4002435D:Hephaistos:79DC:Orogenic Shift:......
     ```
-    At the default speed multiplier of `1`, debug logs would have the same time interval as the log lines (6.0 s time interval).
+    At the default speed multiplier of `1`, debug logs would have the same time interval (6.0 s) as the log lines.  
     If the speed multiplier is set to `3`, it will be accelerated to 3× speed (2.0 s time interval).
 4. Convert
-    If there is an error, check whether the input log has format, time order or other problems.
+    If there is an error, check whether the input log has format, time order or other problems.  
     If there is no error, the generated debug trigger XML will be copied to the system clipboard.
 5. Paste the trigger XML directly into Triggernometry. Right click - Fire to simulate the raid mechanism and test if your triggers work.  
 
