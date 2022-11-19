@@ -1,5 +1,6 @@
-# Triggernometry 调试日志生成器
-Triggernometry Debug Log Generator
+# Triggernometry Debug Log Generator
+
+[阅读中文说明文档 (Read the document in Chinese)](https://github.com/MnFeN/TrN-DebugLogGenerator/blob/main/README-CN.md)
 
 本工具用于生成模拟战斗的触发器，以供其它 Triggernometry 触发器调试。  
 当你写好副本触发器后，可用本工具模拟副本战斗中的日志，免于实际进入副本战斗测试。
