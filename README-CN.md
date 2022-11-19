@@ -10,7 +10,7 @@ ACT - Triggernometry - 选项 - 编辑配置 - 其它：
 - [x] 使用操作系统剪贴板
 
 ### · 使用说明
-1. 从右侧 [Releases](https://github.com/MnFeN/TrN-DebugLogGenerator/releases) 下载最新的 exe 程序。打开后应如下图所示：  
+1. 从项目主页右侧 [Releases](https://github.com/MnFeN/TrN-DebugLogGenerator/releases) 下载最新的 exe 程序。打开后应如下图所示：  
 
 <div align=center>
     <img src="https://user-images.githubusercontent.com/85232361/202853243-4be82906-893b-4795-b534-e78c56b552a3.png" height="300px">
