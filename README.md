@@ -6,7 +6,7 @@ This tool can simulate raid mechanisms by generating debug triggers.
 Once you've written triggers for a mechanism, you can use this tool to simulate raid logs and test your triggers without actually entering the raid instance.   
 
 ### · Triggernometry Settings
-`ACT - Triggernometry - Options - Edit Configuration - Miscellaneous`:
+ACT - Triggernometry - Options - Edit Configuration - Miscellaneous:
 - [x] Use operating system clipboard
 - [x] Developer mode
 
@@ -28,7 +28,7 @@ Once you've written triggers for a mechanism, you can use this tool to simulate 
 4. Convert
     If there is an error, check whether the input log has format, time order or other problems.
     If there is no error, the generated debug trigger XML will be copied to the system clipboard.
-5. Paste the trigger XML directly into Triggernometry. `Right click - Fire` to simulate the raid mechanism and test if your triggers work.  
+5. Paste the trigger XML directly into Triggernometry. Right click - Fire to simulate the raid mechanism and test if your triggers work.  
 
 
 ### · 注意事项
