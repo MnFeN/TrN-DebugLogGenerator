@@ -77,6 +77,5 @@ _e.g._ All `TargetIcon 1B` lines before the casting of Death of the heavens are 
 Then you can enter `/e xml` in game to run this tool.
 
 <div align=center>
-    <img src="https://user-images.githubusercontent.com/85232361/202975668-4f98aa3b-ce8d-40ee-a517-64850800fa86.png" height="200px">
+    <img src="https://user-images.githubusercontent.com/85232361/202990189-97df6ef0-f45a-43fc-824b-3baea42cb572.png" height="200px">
 </div>  
-
