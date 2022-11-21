@@ -72,7 +72,7 @@
 3. 如果待调试的触发器的分组限制了地图 ID 或地图名，调试前关掉对应选项。
 4. Tips: 可以新建一个触发器，如下图所示。这样在游戏中就可以用自定义的 `/e xml` 指令快捷启动这个工具。
 <div align=center>
-    <img src="https://user-images.githubusercontent.com/85232361/202975126-e1059deb-bd3c-48ac-818e-bd9ee4d260e8.png" height="200px">
+    <img src="https://user-images.githubusercontent.com/85232361/202989911-b760ae4c-2570-4548-bbfd-db14c35def7e.png" height="200px">
 </div>  
 
 ## · NGA 发布页
