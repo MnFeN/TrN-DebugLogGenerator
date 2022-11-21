@@ -46,7 +46,7 @@ Search in the battle log:
 </div>  
 
 3. Copy all results, and paste into this tool. Delete the irrelevant log lines, and adjust the time if needed.  
-_e.g._ All `TargetIcon 1B` lines before the casting of Death of the heavens are not related with this mechnism, so only the later ones are retained. So below are all log lines I need for testing my triggers:  
+_e.g._ All `TargetIcon 1B` lines before the casting of Death of the heavens are not related with this mechnism, and only the later ones are retained. So below are all log lines I need for testing my triggers:  
     ```
     [20:20:40.985] StartsCasting 14:40009EBA:King Thordan:6B92:Death of the Heavens:...
     [20:21:10.039] TargetIcon 1B:106A2F62:Player Name:0000:C025:019F:0000:0000:0000
