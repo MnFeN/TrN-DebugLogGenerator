@@ -1,6 +1,6 @@
 # Triggernometry Debug Log Generator
 
-[阅读中文说明文档 (Read the document in Chinese)](https://github.com/MnFeN/TrN-DebugLogGenerator/blob/main/README-CN.md)
+[中文说明文档 (Chinese documentation)](https://github.com/MnFeN/TrN-DebugLogGenerator/blob/main/README-CN.md)
 
 This tool can simulate raid mechanisms by generating debug triggers.  
 Once you've written triggers for a mechanism, you can use this tool to simulate raid logs and test your triggers without actually entering the raid instance.   
