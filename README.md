@@ -70,7 +70,7 @@ _e.g._ All `TargetIcon 1B` lines before the casting of Death of the heavens are 
 
 ## · Notes
 1. The debug XML timeline is generated according to the timestamp `[hh:mm:ss.xxx]` before each log line. Some types of log lines (like `00` `03` `04`) have inaccurate timestamps and might need to adjust manually.
-2. This tool can only simulate log lines, not entity data. If your trigger contains functions that call an entity property, such as `${_ffxiventity[10123456].job}` `${_ffxiventity[Player Name].hp}`, it would not work properly because no such entity could be found.    
+2. This tool can only simulate log lines, not entity data. If your trigger contains functions that call an entity property, such as `${_ffxiventity[Player Name].job}` `${_ffxiventity[40123456].hp}`, it would not work properly because no such entity could be found.    
 (Or you can use other ways instead, such as replacing the ID of the object to be tested with your or someone else's ID, and then standing at the corresponding position to start debugging.)
 3. If your raid triggers are in a folder that restricts the raid Zone ID / Zone name, turn off those options when testing.
 4. Tips: You can add a trigger to run this tool by a pseudo "in-game command", as shown below.  
