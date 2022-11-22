@@ -78,4 +78,7 @@ Then you can enter `/e xml` in the game to run this tool.
 
 <div align=center>
     <img src="https://user-images.githubusercontent.com/85232361/202990189-97df6ef0-f45a-43fc-824b-3baea42cb572.png" height="200px">
-</div>  
+</div>   
+
+## · To-do List
+    - Add support for network log lines
