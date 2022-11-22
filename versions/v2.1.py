@@ -30,12 +30,12 @@ def lang_switch():
     global lang
     lang = ['中文','English'][var_lang.get()]
     if lang == '中文':
-        window.title('Triggernometry 调试日志生成器 v' + __version__ + ' by ' + __author__)
+        window.title('Triggernometry 调试日志生成器 v ' + __version__ + ' by ' + __author__)
         text_header.set('在下方粘贴需要测试的日志行')
         text_convert.set('  转换！')
         text_speed.set('速度倍率')
     if lang == 'English':
-        window.title('Triggernometry Debug Log Generator v' + __version__ + ' by ' + __author__)
+        window.title('Triggernometry Debug Log Generator v ' + __version__ + ' by ' + __author__)
         text_header.set('Paste the log lines to be tested below')
         text_convert.set(' Convert!')
         text_speed.set('Speed')
