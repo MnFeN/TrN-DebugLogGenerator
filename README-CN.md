@@ -77,6 +77,7 @@
 
 ## · To-do List
 - 增加网络日志行的支持
+- 优化图形界面
 
 ## · NGA 发布页
 https://nga.178.com/read.php?&tid=33617575
