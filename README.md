@@ -82,3 +82,4 @@ Then you can enter `/e xml` in the game to run this tool.
 
 ## · To-do List
 - Add support for network log lines
+- Optimize GUI
