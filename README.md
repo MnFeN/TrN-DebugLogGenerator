@@ -1,3 +1,7 @@
+**This program has been rewritten in C# and integrated into Triggernometry 1.2.0.7+, eliminating the need for separate usage.**    
+
+---  
+
 # Triggernometry Debug Log Generator
 
 [中文说明文档 (Chinese documentation)](https://github.com/MnFeN/TrN-DebugLogGenerator/blob/main/README-CN.md)
